@@ -1,4 +1,4 @@
 # Fetch Api exp:
-  * fetch internal text data
-  * fetch internal json data
-  * fetch external json data
+  * fetch local text data
+  * fetch local json data
+  * fetch external json data using github user api.
